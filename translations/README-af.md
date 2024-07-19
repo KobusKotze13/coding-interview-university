@@ -5,9 +5,9 @@
 > aangestel](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)!
 > Jy hoef heel waarskynlik nie soveel soos ek te studeer nie. Maar alles wat jy nodig het is hier.
 > 
-> Ek het ongeveer 8-12 gestudeer elke dag, vir maande. Hier is my storie: [Hoekom ek vol-tyd gestudeer het, vir 8 maande, vir 'n Google onderhoud](https://medium.freecodecamp.org/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13)
+> Ek het ongeveer van 8-12 gestudeer elke dag, vir maande. Hier is my storie: [Hoekom ek vol-tyd gestudeer het, vir 8 maande, vir 'n Google onderhoud](https://medium.freecodecamp.org/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13)
 > 
-> **Let asseblief op:** Jy sal nie soveel soos ek hoef te studeer nie. Ek het baie tyd gemors op goed wat ek nie benodig het nie. Meer inligting daaroor onder. Ek sal jou help leer sonder om jou kosbare tyd te mors.
+> **Let asseblief op:** Jy sal nie soveel soos ek hoef te studeer nie. Ek het baie tyd gemors op goed wat ek nie nodig gehad het nie. Meer inligting daaroor onder. Ek sal jou help leer sonder om jou kosbare tyd te mors.
 >
 > Die items wat hier gelys is sal jou goed voorberei vir tegniese onderhoude by omtrent enige sagteware maatskappy,
 > insluitend die reuse: Amazon, Facebook, Google, en Microsoft.
@@ -72,7 +72,7 @@ Dié is my multi-maand studie plan om 'n sagteware ingeneur te word vir 'n groot
 * Geduld
 * Tyd
   
-Let wel dat die 'n studieplan vir 'n **sagteware ingeneur** pos is, nie 'n webontwikkeling pos nie. Groot maatskappeie soos Google, Amazon,
+Let wel dat hierdie 'n studieplan vir 'n **sagteware ingeneur** pos is, nie 'n webontwikkeling pos nie. Groot maatskappeie soos Google, Amazon,
 Facebook en Microsoft sien sagteware ingeneurs as verskilled van webontwikkeling ingeneurs. Byvoorbeeld, Amazon het
 Frontend Ingeneurs (FEE) en Sagteware Ontwikkeling Ingeneurs (SDE). Die is 2 verskeie rolle en die onderhoude verskil,
 omdat elkeen sy eie bevoegdhede het. Dié maatskappeie benodig rekenaar wetenskap kennis vir
@@ -208,11 +208,11 @@ sagteware ontwikkeling/ingeneur rolle.
 
 ## Hoekom gebruik dit?
 
-As jy wil werk as 'n sagteware ingeneur vir 'n groot maatskappy, hierdie is die goed wat jy moet ken.
+As jy wil werk as 'n sagteware ingeneur vir 'n groot maatskappy is hierdie is die goed wat jy moet ken.
 
 As jy uitgemis het op 'n rekenaar wetenskap graad, soos ek het, sal hierdie jou laat opvang en vier jaar van jou lewe spaar.
 
-Toe ek hierdie projek begin het, kon ek nie verskil tussen 'n stapel en 'n hoop nie, het niks van Big-O geweet nie, of enige iets van bome nie, of hoe om
+Toe ek hierdie projek begin het, kon ek nie die verskil tussen 'n stapel ("Stack") en 'n hoop ("Heap") uitwys nie. Ek het ook niks van Big-O notasie of enige iets van binêre-bome of hoe om
 'n grafiek te dwars nie. As ek 'n sorteer algoritme moes kode, kan ek jou verseker dit was verskriklik.
 Elke datastruktuur wat ek ooit moes gebruik was ingebou in die taal, end ek het nie geweet hoe hulle werk
 onder die kap nie. Ek het nooit nodig gehaad of geheue te bestuur nie, tensy 'n proses vir my 'n "te min
